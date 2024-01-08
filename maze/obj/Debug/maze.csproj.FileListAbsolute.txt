@@ -1,0 +1,34 @@
+C:\Users\sabersko\source\repos\maze\maze\bin\Debug\maze.exe.config
+C:\Users\sabersko\source\repos\maze\maze\bin\Debug\maze.exe
+C:\Users\sabersko\source\repos\maze\maze\bin\Debug\maze.pdb
+C:\Users\sabersko\source\repos\maze\maze\obj\Debug\maze.csprojAssemblyReference.cache
+C:\Users\sabersko\source\repos\maze\maze\obj\Debug\maze.Properties.Resources.resources
+C:\Users\sabersko\source\repos\maze\maze\obj\Debug\maze.csproj.GenerateResource.cache
+C:\Users\sabersko\source\repos\maze\maze\obj\Debug\maze.csproj.CoreCompileInputs.cache
+C:\Users\sabersko\source\repos\maze\maze\obj\Debug\maze.exe
+C:\Users\sabersko\source\repos\maze\maze\obj\Debug\maze.pdb
+C:\Users\compu fast\Desktop\maze\maze\maze\bin\Debug\maze.exe.config
+C:\Users\compu fast\Desktop\maze\maze\maze\bin\Debug\maze.exe
+C:\Users\compu fast\Desktop\maze\maze\maze\bin\Debug\maze.pdb
+C:\Users\compu fast\Desktop\maze\maze\maze\obj\Debug\maze.csprojAssemblyReference.cache
+C:\Users\compu fast\Desktop\maze\maze\maze\obj\Debug\maze.Properties.Resources.resources
+C:\Users\compu fast\Desktop\maze\maze\maze\obj\Debug\maze.csproj.GenerateResource.cache
+C:\Users\compu fast\Desktop\maze\maze\maze\obj\Debug\maze.exe
+C:\Users\compu fast\Desktop\maze\maze\maze\obj\Debug\maze.pdb
+C:\Users\sabersko\Desktop\maze\maze\maze\maze\bin\Debug\maze.exe.config
+C:\Users\sabersko\Desktop\maze\maze\maze\maze\bin\Debug\maze.exe
+C:\Users\sabersko\Desktop\maze\maze\maze\maze\bin\Debug\maze.pdb
+C:\Users\sabersko\Desktop\maze\maze\maze\maze\obj\Debug\maze.csprojAssemblyReference.cache
+C:\Users\sabersko\Desktop\maze\maze\maze\maze\obj\Debug\maze.Properties.Resources.resources
+C:\Users\sabersko\Desktop\maze\maze\maze\maze\obj\Debug\maze.csproj.GenerateResource.cache
+C:\Users\sabersko\Desktop\maze\maze\maze\maze\obj\Debug\maze.csproj.CoreCompileInputs.cache
+C:\Users\sabersko\Desktop\maze\maze\maze\maze\obj\Debug\maze.exe
+C:\Users\sabersko\Desktop\maze\maze\maze\maze\obj\Debug\maze.pdb
+C:\Users\compu fast\Desktop\Project Ai\maze\maze\bin\Debug\maze.exe.config
+C:\Users\compu fast\Desktop\Project Ai\maze\maze\bin\Debug\maze.exe
+C:\Users\compu fast\Desktop\Project Ai\maze\maze\bin\Debug\maze.pdb
+C:\Users\compu fast\Desktop\Project Ai\maze\maze\obj\Debug\maze.csprojAssemblyReference.cache
+C:\Users\compu fast\Desktop\Project Ai\maze\maze\obj\Debug\maze.Properties.Resources.resources
+C:\Users\compu fast\Desktop\Project Ai\maze\maze\obj\Debug\maze.csproj.GenerateResource.cache
+C:\Users\compu fast\Desktop\Project Ai\maze\maze\obj\Debug\maze.exe
+C:\Users\compu fast\Desktop\Project Ai\maze\maze\obj\Debug\maze.pdb
